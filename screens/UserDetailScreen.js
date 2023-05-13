@@ -142,6 +142,7 @@ const styles = StyleSheet.create({
     marginBottom: 15,
     borderBottomWidth: 1,
     borderBottomColor: '#cccccc',
+    
   },
   preloader: {
     left: 0,

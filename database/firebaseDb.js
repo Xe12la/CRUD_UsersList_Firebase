@@ -1,5 +1,6 @@
-import * as firebase from 'firebase';
-import firestore from 'firebase/firestore'
+import firebase from "firebase/compat/app"
+import "firebase/compat/auth"
+import "firebase/compat/firestore"
 const firebaseConfig = {
     apiKey: "AIzaSyC5b95OWWQvqqfkVivoaPrGDA40Y2mi8jg",
     authDomain: "todo-app-21437.firebaseapp.com",
